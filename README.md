@@ -1,0 +1,1 @@
+Let's finetune [VulnLLM-R](https://www.arxiv.org/pdf/2512.07533) to act like a [Code World Model](https://arxiv.org/pdf/2510.02387)
