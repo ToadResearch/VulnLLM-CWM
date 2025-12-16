@@ -1,1 +1,1 @@
-Let's make [VulnLLM-R](https://www.arxiv.org/pdf/2512.07533) act like a [Code World Model](https://arxiv.org/pdf/2510.02387) by finetuning it to reason about Python stack traces!
+Let's finetune [VulnLLM-R](https://www.arxiv.org/pdf/2512.07533) to act like a [Code World Model](https://arxiv.org/pdf/2510.02387)!
